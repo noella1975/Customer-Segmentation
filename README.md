@@ -1,1 +1,1 @@
-# Customer-Segmentation
+This project implements K-Means clustering to segment customers based on their annual income and spending score. By identifying distinct customer groups, businesses can tailor their marketing strategies, product offerings, and customer service to better meet the needs and preferences of each segment.
